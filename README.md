@@ -22,4 +22,4 @@ Show details about a movie
   curl -i -H "Content-Type: application/json" -X GET localhost:8080/movies/Avatar
 ```
 ## Credits
-Tutorial form [Brian Fraser](https://www.youtube.com/watch?v=rXBsnNCH59o&t=1247s&ab_channel=BrianFraser) on YouTube.
+Tutorial from [Brian Fraser](https://www.youtube.com/watch?v=rXBsnNCH59o&t=1247s&ab_channel=BrianFraser) on YouTube.
